@@ -1,4 +1,4 @@
-# regression-using-numpy
+# Machine-learning-algorithms
 
 SLR = Simple linear regression / 
 PR = Polynomial regression /
