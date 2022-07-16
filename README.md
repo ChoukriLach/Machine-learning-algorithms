@@ -1,6 +1,6 @@
 # Machine-learning-algorithms
 
-SLR = Simple linear regression /
-PR = Polynomial regression /
-MLR = Multiple linear regression /
+SLR = Simple linear regression <br />
+PR = Polynomial regression <br />
+MLR = Multiple linear regression <br />
 KNN = K-nearest neighbors
